@@ -1,1 +1,1 @@
-[GitHub Logo](/images/workflow.png)
+[GitHub Logo](/workflow.png)
